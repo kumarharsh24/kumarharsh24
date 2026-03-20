@@ -38,9 +38,6 @@
 ### 🚌 Bus Booking System  
 - Web-based booking system with backend logic  
 
-### ❤️ Heart Failure Prediction  
-- ML model for disease prediction  
-
 ### 🎮 Pacman Game  
 - Interactive frontend game using JavaScript  
 
