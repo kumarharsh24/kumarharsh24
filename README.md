@@ -11,11 +11,11 @@
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-🔭 Building end-to-end Machine Learning and full-stack (MERN) applications
-🧠 Interested in AI, Data Analytics, and Backend Systems
-⚙️ Focused on scalable, real-world, production-ready solutions
-🌱 Currently exploring MLOps, FastAPI, and System Design
-⚡ Passionate about solving problems and turning ideas into usable products 
+- 🔭 Building end-to-end Machine Learning and full-stack (MERN) applications  
+- 🧠 Interested in AI, Data Analytics, and Backend Systems  
+- ⚙️ Focused on scalable, real-world, production-ready solutions  
+- 🌱 Currently exploring MLOps, FastAPI, and System Design  
+- ⚡ Passionate about solving problems and turning ideas into usable products  
 
 ---
 
