@@ -29,23 +29,23 @@
 
 ## 🧠 Featured Projects
 
-### 🔬 Sensor Fault Detection System  
-- End-to-end ML pipeline (data → deployment)  
-- Models: Random Forest, XGBoost, SVM  
-- Hyperparameter tuning + Flask deployment  
-- Modular, production-style architecture  
+### 🔬 Sensor Fault Detection System
+- End-to-end ML pipeline (data → deployment)
+- Models: Random Forest, XGBoost, SVM
+- Hyperparameter tuning + Flask deployment
+- Modular, production-style architecture
 
-### 🚌 Bus Booking System  
-- Web-based booking system with backend logic  
+### 🚌 Bus Booking System
+- Web-based booking system with backend logic
 
-### 🎮 Pacman Game  
-- Interactive frontend game using JavaScript  
+### 🎮 Pacman Game
+- Interactive frontend game using JavaScript
 
-### 🤖 PerkPilotBot  
-- Automation bot for task execution  
+### 🤖 PerkPilotBot
+- Automation bot for task execution
 
-### 🎵 Music Recommender *(Private)*  
-- ML-based recommendation system  
+### 🎵 Music Recommender *(Private)*
+- ML-based recommendation system
 
 ---
 
@@ -73,20 +73,7 @@
 </p>
 
 ---
-<p align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/✉️%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+
 ## 📫 Connect With Me
 
 <p align="left">
@@ -99,9 +86,9 @@
   <a href="mailto:b23bb1025@iitj.ac.in" target="_blank">
     <img src="https://img.shields.io/badge/✉️%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-<a href="https://www.linkedin.com/in/kumar-harsh-7560352a1/" target="_blank">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/kumar-harsh-7560352a1/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <h3 align="center">⚡ "Building systems that actually work in the real world."</h3>
