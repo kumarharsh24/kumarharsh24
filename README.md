@@ -77,7 +77,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://kumar-harsh-portfolio-2jm3.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="#" target="_blank">
