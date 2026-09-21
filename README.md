@@ -66,13 +66,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarharsh24&theme=tokyo-night" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
